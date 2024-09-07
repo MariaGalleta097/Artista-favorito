@@ -1,0 +1,19 @@
+
+body{
+    background-color:#dac4f7;
+}
+
+
+#titulo{
+    font-size: 90px;
+    text-align: center;
+}
+
+#letra{
+    text-align: center;
+    background-color: #7149a5;
+    }
+
+p{
+    font-size: larger;
+}
